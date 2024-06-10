@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AlejoSaini" target="blank">
 Alejo Saini</a></h1>
-<h3 align="center">Soy un estudiante en Ingeniera en sistemas de información, apasionado por la tecnología</h3>
+<h3 align="center">I'm ä Sistems Engineering student at the UTN, passionate about technology</h3>
 
 
 ### 🎓 Academic Background
